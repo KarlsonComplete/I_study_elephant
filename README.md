@@ -20,5 +20,6 @@
 ---
 
 #Other
-
+1. Прочитать доки по Кастомному Нормализатору
+https://symfony.com/doc/current/serializer/custom_normalizer.html
 ---
