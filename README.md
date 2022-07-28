@@ -11,7 +11,8 @@
 ---
 
 #Networking
-
+1. Работа с сервером , хорошее видео с таймкодами внизу.
+https://deworker.pro/edu/series/http-framework/http-server
 ---
 
 #Language Constructs
