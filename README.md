@@ -2,7 +2,7 @@
 
 
 #ООП
-1.Хорошая статейка по реализации FluentInterface.
+1. Хорошая статейка по реализации FluentInterface.
 https://habr.com/ru/post/170019/
 ---
 
