@@ -25,3 +25,8 @@ https://deworker.pro/edu/series/http-framework/http-server
 1. Прочитать доки по Кастомному Нормализатору
 https://symfony.com/doc/current/serializer/custom_normalizer.html
 ---
+
+#Git
+1. Работа с md файлами
+https://github.com/GnuriaN/format-README
+---
